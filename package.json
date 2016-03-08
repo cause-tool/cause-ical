@@ -1,0 +1,34 @@
+{
+  "name": "cause-ical",
+  "version": "0.0.0",
+  "description": "checks for new ical events",
+  "author": "freder.code@gmail.com",
+  "main": "index.js",
+  "license": "CC-BY-NC-SA-4.0",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "cause-utils": "*",
+    "ical": "^0.4.0",
+    "lodash": "^4.5.1",
+    "moment": "^2.11.2",
+    "request": "^2.69.0",
+    "sf": "^0.1.8",
+    "validator": "^5.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freder/cause-ical.git"
+  },
+  "keywords": [
+    "cause",
+    "cause-block",
+    "ical"
+  ],
+  "bugs": {
+    "url": "https://github.com/freder/cause-ical/issues"
+  },
+  "homepage": "https://github.com/freder/cause-ical"
+}
