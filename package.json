@@ -1,6 +1,6 @@
 {
   "name": "cause-ical",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "checks for new ical events",
   "author": "freder.code@gmail.com",
   "main": "dist",
