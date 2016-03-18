@@ -6,7 +6,7 @@ const ical = require('ical');
 const moment = require('moment');
 const sf = require('sf');
 const validator = require('validator');
-const scrapingUtils = require('cause-utils/scraping');
+const scrapingUtils = require('cause-utils/dist/scraping');
 
 
 function formatOrganizer(orga) {
